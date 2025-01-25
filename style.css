@@ -95,6 +95,7 @@ p {
 
   h2 {
     font-size: 36px;
+    text-align: center;
   }
 
   h3 {
@@ -115,7 +116,10 @@ p {
   }
 
   .primary-link {
+    display: block;
+    text-align: center;
     padding: 15px 10px;
+    margin: 0 20px;
   }
 
   .secondary-link {
